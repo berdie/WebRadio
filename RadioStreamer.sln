@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioStreamer", "RadioStreamer.csproj", "{24803FEF-BDF2-4AC2-B595-BA36058C2E3B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WebRadio", "..\WebRadio\WebRadio.vdproj", "{0145D066-A37B-547A-A666-902109F2D83D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24803FEF-BDF2-4AC2-B595-BA36058C2E3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24803FEF-BDF2-4AC2-B595-BA36058C2E3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24803FEF-BDF2-4AC2-B595-BA36058C2E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24803FEF-BDF2-4AC2-B595-BA36058C2E3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0145D066-A37B-547A-A666-902109F2D83D}.Debug|Any CPU.ActiveCfg = Debug
+		{0145D066-A37B-547A-A666-902109F2D83D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC549BC6-C125-439C-960A-6060A4D6E268}
+	EndGlobalSection
+EndGlobal
